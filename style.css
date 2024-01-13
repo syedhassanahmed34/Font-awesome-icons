@@ -48,8 +48,8 @@ span {
 
 .box:hover {
     cursor: pointer;
-    background-color: yellow;
-    color: white;
+    background-color: #2d2c2c;
+    color: yellow;
     border-color: #2d2c2c;
 }
 
