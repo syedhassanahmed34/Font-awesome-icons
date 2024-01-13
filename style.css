@@ -49,8 +49,9 @@ span {
 .box:hover {
     cursor: pointer;
     background-color: #2d2c2c;
-    color: yellow;
+    color: white;
     border-color: #2d2c2c;
+    transition: all ease 0.5s;
 }
 
 h2 {
